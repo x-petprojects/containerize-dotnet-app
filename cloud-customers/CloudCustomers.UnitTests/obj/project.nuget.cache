@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KoZnWydzm4hDlqY1tqDrRL1TL5iLiu/zY6yDxS/sKbFS5I6i5pdJG2rirpKSWTKC+oIWEvhyI5TxgwXb+UJt4Q==",
+  "dgSpecHash": "rAyytqIDw+hXSIKvYRZ12q8eBr8xGjfDBpGnvJzDQsp2P6vxXzsPigmQwJDR1faKF4+9/yo3oyf0LOPfI+uXMw==",
   "success": true,
-  "projectFilePath": "D:\\Users\\serge\\Documents\\Projects\\ccharp-learning\\containerize-dotnet-app\\CloudCustomers\\CloudCustomers.UnitTests\\CloudCustomers.UnitTests.csproj",
+  "projectFilePath": "D:\\Users\\serge\\Documents\\Projects\\ccharp-learning\\containerize-dotnet-app\\cloud-customers\\CloudCustomers.UnitTests\\CloudCustomers.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\serge\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\serge\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",

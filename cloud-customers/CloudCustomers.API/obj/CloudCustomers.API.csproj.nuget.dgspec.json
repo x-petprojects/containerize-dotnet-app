@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\serge\\Documents\\Projects\\ccharp-learning\\containerize-dotnet-app\\CloudCustomers\\CloudCustomers.API\\CloudCustomers.API.csproj": {}
+    "D:\\Users\\serge\\Documents\\Projects\\ccharp-learning\\containerize-dotnet-app\\cloud-customers\\CloudCustomers.API\\CloudCustomers.API.csproj": {}
   },
   "projects": {
-    "D:\\Users\\serge\\Documents\\Projects\\ccharp-learning\\containerize-dotnet-app\\CloudCustomers\\CloudCustomers.API\\CloudCustomers.API.csproj": {
+    "D:\\Users\\serge\\Documents\\Projects\\ccharp-learning\\containerize-dotnet-app\\cloud-customers\\CloudCustomers.API\\CloudCustomers.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\serge\\Documents\\Projects\\ccharp-learning\\containerize-dotnet-app\\CloudCustomers\\CloudCustomers.API\\CloudCustomers.API.csproj",
+        "projectUniqueName": "D:\\Users\\serge\\Documents\\Projects\\ccharp-learning\\containerize-dotnet-app\\cloud-customers\\CloudCustomers.API\\CloudCustomers.API.csproj",
         "projectName": "CloudCustomers.API",
-        "projectPath": "D:\\Users\\serge\\Documents\\Projects\\ccharp-learning\\containerize-dotnet-app\\CloudCustomers\\CloudCustomers.API\\CloudCustomers.API.csproj",
+        "projectPath": "D:\\Users\\serge\\Documents\\Projects\\ccharp-learning\\containerize-dotnet-app\\cloud-customers\\CloudCustomers.API\\CloudCustomers.API.csproj",
         "packagesPath": "C:\\Users\\serge\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\serge\\Documents\\Projects\\ccharp-learning\\containerize-dotnet-app\\CloudCustomers\\CloudCustomers.API\\obj\\",
+        "outputPath": "D:\\Users\\serge\\Documents\\Projects\\ccharp-learning\\containerize-dotnet-app\\cloud-customers\\CloudCustomers.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\serge\\AppData\\Roaming\\NuGet\\NuGet.Config",
